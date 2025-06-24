@@ -1,1 +1,1 @@
-# PEFinal
+# Power Electronics Final Exam
